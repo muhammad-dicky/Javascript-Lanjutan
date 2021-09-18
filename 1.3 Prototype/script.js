@@ -18,7 +18,7 @@ let mahasiswa2 = {
     
     }
 }
-
+//percobaan 1.3
 
 
 // 2. Function Declaration
