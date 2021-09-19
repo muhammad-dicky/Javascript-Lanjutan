@@ -10,7 +10,7 @@
 
 
 
-
+// belum selesai 10:35
 
 var nama = 'Diki';
 var umur = 21;
